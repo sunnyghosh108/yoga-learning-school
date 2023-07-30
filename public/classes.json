@@ -1,0 +1,385 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Vinyasa Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "salad",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Vinyasa Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation..",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Hatha Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.mysoreyoga.in/CourseImages/0_41210400_1613388346.jpg",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation...",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Vinyasa Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation..",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 12.5
+    },
+    
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Vinyasa Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Restorative Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.....",
+        "image": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2012/07/pregnant-woman-lying-shavasana-resting-after-practice-meditating-breathing-copy.jpg",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation..",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 12.5
+    },
+    
+    {
+        "_id": "642c155b2c4774f05c36ee81",
+        "name": "Yin Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.ekhartyoga.com/media/image/articles/Yin-yoga-on-EkhartYoga.jpg",
+        "category": "offered",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee84",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation...",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "name": "Vinyasa Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation....",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea5",
+        "name": "Vinyasa Yoga",
+        "recipe": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee87",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation...",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee83",
+        "name": "Yin Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.ekhartyoga.com/media/image/articles/Yin-yoga-on-EkhartYoga.jpg",
+        "category": "offered",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Hatha Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation..",
+        "image": "https://www.mysoreyoga.in/CourseImages/0_41210400_1613388346.jpg",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Vinyasa Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeba",
+        "name": "Power Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation..",
+        "image": "https://www.artofliving.org/sites/www.artofliving.org/files/styles/original_image/public/wysiwyg_imageupload/3-What-is-Power-yoga---difference-between-yoga-and-power-yoga.jpg?itok=IjEIgoRR",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee80",
+        "name": "Yin Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.ekhartyoga.com/media/image/articles/Yin-yoga-on-EkhartYoga.jpg",
+        "category": "offered",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee90",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb0",
+        "name": "Restorative Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2012/07/pregnant-woman-lying-shavasana-resting-after-practice-meditating-breathing-copy.jpg",
+        "category": "soup",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8d",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation....",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8e",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation....",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea7",
+        "name": "Vinyasa Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation....",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "salad",
+        "price": 9.5
+    },
+    
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "name": "Restorative Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation...",
+        "image": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2012/07/pregnant-woman-lying-shavasana-resting-after-practice-meditating-breathing-copy.jpg",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.....",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb8",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation....",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7e",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation...",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "popular",
+        "price": 14.5
+    },
+    
+    {
+        "_id": "642c155b2c4774f05c36ee8f",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation...",
+        "image": "https://img.freepik.com/premium-psd/public-transportation-seat-mockup-design-concept_417483-1289.jpg?size=626&ext=jpg&ga=GA1.1.919864537.1687618236&semt=ais",
+        "category": "dessert",
+        "price": 13.5
+    },
+    
+    
+    {
+        "_id": "642c155b2c4774f05c36eea0",
+        "name": "Kundalini Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation..",
+        "image": "https://contentapi.altromondoyoga.com/wp-content/uploads/2021/05/clive_guiver_6161_1-kopiera-150x150.jpg",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Vinyasa Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation..",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "salad",
+        "price": 9.5
+    },
+   
+    
+    {
+        "_id": "642c155b2c4774f05c36ee9b",
+        "name": "Kundalini Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://contentapi.altromondoyoga.com/wp-content/uploads/2021/05/clive_guiver_6161_1-kopiera-150x150.jpg",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb7",
+        "name": "Restorative Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2012/07/pregnant-woman-lying-shavasana-resting-after-practice-meditating-breathing-copy.jpg",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9c",
+        "name": "Kundalini Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://contentapi.altromondoyoga.com/wp-content/uploads/2021/05/clive_guiver_6161_1-kopiera-150x150.jpg",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9d",
+        "name": "Kundalini Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://contentapi.altromondoyoga.com/wp-content/uploads/2021/05/clive_guiver_6161_1-kopiera-150x150.jpg",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "Vinyasa Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "name": "Restorative Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2012/07/pregnant-woman-lying-shavasana-resting-after-practice-meditating-breathing-copy.jpg",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee98",
+        "name": "AcroYoga ",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://cdn.yogajournal.com/wp-content/uploads/2014/09/acro-yoga-plank-on-plank-pose-4.jpg",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee82",
+        "name": "Yin Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.ekhartyoga.com/media/image/articles/Yin-yoga-on-EkhartYoga.jpg",
+        "category": "offered",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee86",
+        "name": "Ashtanga Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9a",
+        "name": "Kundalini Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://contentapi.altromondoyoga.com/wp-content/uploads/2021/05/clive_guiver_6161_1-kopiera-150x150.jpg",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Hatha Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.mysoreyoga.in/CourseImages/0_41210400_1613388346.jpg",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Restorative Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2012/07/pregnant-woman-lying-shavasana-resting-after-practice-meditating-breathing-copy.jpg",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Restorative Yoga",
+        "recipe": " yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2012/07/pregnant-woman-lying-shavasana-resting-after-practice-meditating-breathing-copy.jpg",
+        "category": "soup",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Restorative Yoga",
+        "recipe": "yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+        "image": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2012/07/pregnant-woman-lying-shavasana-resting-after-practice-meditating-breathing-copy.jpg",
+        "category": "soup",
+        "price": 10.5
+    }
+]

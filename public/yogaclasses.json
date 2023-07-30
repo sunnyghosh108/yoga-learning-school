@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "1",
+      "name": "Hatha Yoga",
+      "category": "Beginner",
+      "details": "Hatha yoga is a gentle and slow-paced style that focuses on breathing and basic poses.",
+      "price": "$10",
+      "image": "https://www.mysoreyoga.in/CourseImages/0_41210400_1613388346.jpg",
+      "totalStudents":"50"
+    },
+    {
+        "_id": "2",
+        "name": "Vinyasa Yoga",
+        "category": "Intermediate",
+        "details": "Vinyasa yoga is a dynamic style that emphasizes flowing sequences of poses coordinated with breath.",
+        "price": "$12",
+        "image": "https://staticg.sportskeeda.com/editor/2022/05/3e1b5-16515743359650-1920.jpg",
+        "totalStudents":"60"
+    },
+    {
+        "_id": "3",
+        "name": "Ashtanga Yoga",
+        "category": "Advanced",
+        "details": "Ashtanga yoga is a vigorous and physically demanding style that follows a specific sequence of poses.",
+        "price": "$15",
+        "image": "https://www.deccanherald.com/sites/dh/files/gallery_images/file73jofpmxmeace8tih3w.jpg",
+        "totalStudents":"80"
+    },
+    {
+        "_id": "4",
+      "name": "Kundalini Yoga",
+      "category": "Spiritual",
+      "details": "Kundalini yoga focuses on awakening the dormant energy within the body through breathwork, movement, and meditation.",
+      "price": "$14",
+      "image": "https://contentapi.altromondoyoga.com/wp-content/uploads/2021/05/clive_guiver_6161_1-kopiera-150x150.jpg",
+      "totalStudents":"70"
+    },
+    {
+        "_id": "5",
+        "name": "Bikram Yoga",
+        "category": "relaxation Yoga",
+        "details": "Bikram yoga is practiced in a heated room to promote flexibility and detoxification.",
+        "price": "$16",
+        "image": "data:image/jpeg;base64,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",
+        "totalStudents":"85"
+      },
+      {
+        "_id": "6",
+        "name": "Restorative Yoga",
+        "category": "Relaxation",
+        "details": "Restorative yoga uses props and gentle poses to help release tension and promote deep relaxation.",
+        "price": "$11",
+        "image": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2012/07/pregnant-woman-lying-shavasana-resting-after-practice-meditating-breathing-copy.jpg",
+        "totalStudents":"58"
+      },
+      {
+        "_id": "7",
+        "name": "Yin Yoga",
+        "category": "Slow Pace",
+        "details": "Yin yoga involves holding passive poses for an extended period to target connective tissues and improve flexibility.",
+        "price": "$13",
+        "image": "https://www.ekhartyoga.com/media/image/articles/Yin-yoga-on-EkhartYoga.jpg",
+        "totalStudents":"65"
+      },
+      {
+        "_id": "8",
+        "name": "Power Yoga",
+        "category": "Strength",
+        "details": "Power yoga is a dynamic and fast-paced style that focuses on building strength, endurance, and flexibility.",
+        "price": "$14",
+        "image": "https://www.artofliving.org/sites/www.artofliving.org/files/styles/original_image/public/wysiwyg_imageupload/3-What-is-Power-yoga---difference-between-yoga-and-power-yoga.jpg?itok=IjEIgoRR",
+        "totalStudents":"68"
+      },
+      {
+        "_id": "9",
+        "name": "AcroYoga",
+        "category": "Partner",
+        "details": "AcroYoga combines yoga, acrobatics, and Thai massage, often performed with a partner.",
+        "price": "$17",
+        "image": "https://cdn.yogajournal.com/wp-content/uploads/2014/09/acro-yoga-plank-on-plank-pose-4.jpg",
+        "totalStudents":"75"
+      },
+      {
+        "_id": "10",
+        "name": "Prenatal Yoga",
+        "category": "Specialized",
+        "details": "Prenatal yoga is tailored for expectant mothers, providing gentle stretches and poses that support pregnancy.",
+        "price": "$18",
+        "image": "https://c.ndtvimg.com/2020-06/figofu7g_pregnancy-650_625x300_13_June_20.jpg",
+        "totalStudents":"90"
+      }
+]
