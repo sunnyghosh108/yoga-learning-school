@@ -2,8 +2,8 @@ import React from 'react';
 //import useAuth from '../../../hooks/UseAuth';
 //import useAxiosSecure from '../../../hooks/UseAxiosSecure';
 import { useQuery } from '@tanstack/react-query';
-import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Legend } from 'recharts';
-import { PieChart, Pie,  ResponsiveContainer } from 'recharts';
+//import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Legend } from 'recharts';
+ //import { PieChart, Pie,  ResponsiveContainer } from 'recharts';
 import useAxiosSecure from '../../../hooks/useAxiosSecure';
 import useAuth from '../../../hooks/UseAuth';
 
@@ -97,7 +97,7 @@ const AdminHome = () => {
                 </div>
   
             </div>
-            <div className="flex">
+            {/* <div className="flex">
                 <div className="w-1/2">
                     <BarChart
                         width={500}
@@ -141,7 +141,7 @@ const AdminHome = () => {
                         </PieChart>
                     </ResponsiveContainer>
                 </div>
-            </div>
+            </div> */}
         </div>
     );
   };

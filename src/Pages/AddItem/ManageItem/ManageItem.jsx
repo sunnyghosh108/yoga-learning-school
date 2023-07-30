@@ -49,7 +49,7 @@ const ManageItem = () => {
                       <tr>
                           <th>#</th>
                           <th>Item</th>
-                          <th>Category</th>
+                    
                           <th>Price</th>
                           <th>Update</th>
                           <th>Delete</th>
@@ -73,9 +73,7 @@ const ManageItem = () => {
                                       </div>
                                   </div>
                               </td>
-                              <td>
-                                  {item.category}
-                              </td>
+                              
                               <td className="text-right">${item.price}</td>
                               <td>
                                   <button className="btn btn-ghost btn-xs">details</button>
